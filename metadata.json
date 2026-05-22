@@ -1,0 +1,6 @@
+{
+  "name": "Recipe Bookmark Navigator",
+  "description": "An interactive, categorization-powered recipe website with HTML link importing and Gemini-driven food categorization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
